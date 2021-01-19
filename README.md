@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Occasionally, I write some guides that I think might be useful for someone. You can find them here: [https://maik-s.github.io](https://maik-s.github.io)
+
 <!--
 **maik-s/maik-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
